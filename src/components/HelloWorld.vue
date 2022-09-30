@@ -17,7 +17,7 @@ export default {
 <template>
   <h1>{{ message }}</h1>
   <p>Count is: {{ counter.count }}</p>
-   <h1 :class="titleClass">Make me red</h1>
+   <h1 :class="titleClass">Make me red hello developer</h1>
 </template>
 
 <style>
